@@ -1,0 +1,14 @@
+[
+{
+	"relativeURL":"/speakers",
+	"filename":"speakers.json"
+},
+{
+	"relativeURL":"/sessions",
+	"filename":"sessions.json"
+},
+{
+	"relativeURL":"/topics",
+	"filename":"topics.json"
+}
+]

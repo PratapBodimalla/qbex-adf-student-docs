@@ -1,0 +1,93 @@
+/* Date Time Functions */
+/* 1. Get Current Date */
+/* currentDate() */
+/* currentDate('EST') */
+
+/* 2. Get Current Timestamp */
+/* currentTimestamp() */
+
+/* 3. Get current UTC 
+https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html */
+/* currentUTC() */
+/* currentUTC('IST') */
+
+/* 4. toDate & toTimestamp*/
+/* toDate('2024-10-02') */
+/* toDate('2024-02-10','yyyy-dd-MM') */
+/* toDate('2024-02-8','yyyy-dd-M') */
+/* toTimestamp('2016-12-31 00:12:00') */
+/* toTimestamp('12/31/2016T00:12:00', 'MM/dd/yyyy\'T\'HH:mm:ss') */
+/* millisecond(toTimestamp('2019-02-03 05:19:28.871', 'yyyy-MM-dd HH:mm:ss.SSS')) */
+
+/* 5. addDays and subDays*/
+/* addDays(toDate('2016-08-08'), 1) */
+/* addDays(currentDate(), 1) */
+/* addDays(currentDate(),-10) */
+/* subDays(currentDate(),10) */
+
+/* 6. addMonths and subMonths*/
+/* addMonths(currentDate(), 1) */
+/* subMonths(currentDate(), 1) */
+
+/* 7. between */
+/* between(12,10,20) */
+/* between(currentDate(), subDays(currentDate(),0),addDays(currentDate(),-10)) */
+
+/* 8. dayOfMonth, dayOfWeek, dayOfYear */
+/* dayOfMonth(currentDate()) */
+/* dayOfWeek(currentDate()) */
+/* dayOfYear(currentDate()) */
+
+/* 9. Days, hours, minutes, seconds , weeks
+return number of milliseconds*/
+/* days(1) */
+/* hours(1) */
+/* minutes(1) */
+/* seconds(1) */
+/* weeks(1) */
+
+
+/* 10. fromUTC convert UTC to required timezone & toUTC*/
+/* fromUTC(currentTimestamp(), 'IST') */
+/* toUTC(currentTimestamp()) */
+
+/* 11. hour -> return hour from timestamp */
+/* hour(fromUTC(currentTimestamp(), 'IST')) */
+
+/* 12. isDate 
+[ yyyy, yyyy-[M]M, yyyy-[M]M-[d]d, yyyy-[M]M-[d]dT* ] */
+/* isDate('2024-10-04') */
+/* isDate('2024-oct-04') */
+
+
+/* 13. lastDayOfMonth */
+/* lastDayOfMonth(currentDate()) */
+
+
+/* 14. minus */
+/* minus(20, 10) */
+/* 20 - 10 */
+/* minus(toDate('2012-12-15'), 3) */
+/* toDate('2012-12-15') - 3  */
+/* toTimestamp('2019-02-03 05:19:28.871', 'yyyy-MM-dd HH:mm:ss.SSS') + (days(1) + hours(2) - seconds(10))  */
+/* toTimestamp('2019-02-03 05:21:34.851', 'yyyy-MM-dd HH:mm:ss.SSS') - toTimestamp('2019-02-03 05:21:36.923', 'yyyy-MM-dd HH:mm:ss.SSS') */
+
+/* 15. month */
+/* month(currentDate()) */
+
+/* How to get Month Name */
+
+/* 16. monthsBetween */
+/* monthsBetween(currentDate(), addDays(currentDate(),-100), false(), 'UTC') */
+/* monthsBetween(currentDate(), addDays(currentDate(),-100), true(), 'UTC') */
+/* monthsBetween(toTimestamp('1997-02-28 10:30:00'), toDate('1996-10-30')) */
+
+/* 17. second */
+/* second(toTimestamp('2009-07-30 12:58:59')) */
+
+/* weekOfYear */
+/* weekOfYear(currentDate()) */
+
+
+/* year */
+year(currentDate())

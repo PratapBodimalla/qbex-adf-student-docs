@@ -1,0 +1,73 @@
+/* Array Functions */
+/* 1.array */
+/* array('Seattle', 'Washington') */
+/* ['Seattle', 'Washington'] */
+/* ['Seattle', 'Washington'][1] */
+/* 'Washington' */
+
+/* 2.at */
+/* at(['apples', 'pears'], 1) */
+/* at(['fruit' -> 'apples', 'vegetable' -> 'carrot'], 'fruit') */
+
+/* 3. contains */
+/* contains([1, 2, 3, 4], #item == 3) */
+/* contains([1, 2, 3, 4], #item > 5) */
+
+/* 4. distinct */
+/* distinct([10, 20, 30, 10]) */
+
+/* 5. except */
+/* except([10, 20, 30], [20, 40]) */
+
+/* 6. filter */
+/* filter([1, 2, 3, 4], #item > 2) */
+/* filter(['a', 'b', 'c', 'd'], #item == 'a' || #item == 'b') */
+
+/* 7 find */
+/* find([10, 20, 30], #item > 10) */
+
+/* 8. flatten */
+/* flatten([['bojjus', 'girl'], ['gunchus', 'boy']]) */
+/* flatten([[['bojjus', 'gunchus']]] , true()) */
+
+/* 9. in */
+/* in([10, 20, 30], 10) */
+/* in(['good', 'kid'], 'bad') */
+
+/* 10. intersect */
+/* intersect([10, 20, 30], [20, 40]) */
+
+/* 11. map */
+/* map([1, 2, 3, 4], #item + 2) */
+/* map(['a', 'b', 'c', 'd'], #item + '_processed') */
+
+/* 12. mapif */
+/* mapIf([10, 20, 30], #item > 10, #item + 5) */
+/* mapIf(['icecream', 'cake', 'soda'], length(#item) > 4, upper(#item)) */
+
+/* 13. mapindex */
+/* mapIndex([1, 2, 3, 4], #item + 2 + #index) */
+
+/* 14. maploop */
+/* mapLoop(3, #index * 10) */
+
+/* 15. reduce */
+/* toString(reduce(['1', '2', '3', '4'], '0', #acc + #item, #result)) */
+
+/* 16. size */
+/* size(['element1', 'element2']) */
+/* size([1,2,3]) */
+
+/* 17. slice */
+/* slice([10, 20, 30, 40], 1, 2) */
+/* slice([10, 20, 30, 40], 2) */
+
+/* 18. sort */
+/* sort([4, 8, 2, 3], compare(#item1, #item2)) */
+/* sort(['a3', 'b2', 'c1'], iif(right(#item1, 1) >= right(#item2, 1), 1, -1)) */
+
+/* 19.union */
+/* union([10, 20, 30], [20, 40]) */
+
+/* 20. unfold */
+/* like unnest */

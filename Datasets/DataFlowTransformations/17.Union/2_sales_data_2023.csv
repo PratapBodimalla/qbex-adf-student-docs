@@ -1,0 +1,16 @@
+SalesOrder,OrderDate,CustomerName,City,Product,Price,Qty_Sold,Qty_Sold_Units,Amount,Amount_Currency
+SO1016,20-01-2023,Nikhil Desai,Ahmedabad,Webcam,8000,4,pieces,32000,INR
+SO1017,01-01-2023,Nikhil Desai,Mumbai,Keyboard,8000,6,pieces,48000,INR
+SO1018,26-01-2023,Nikhil Desai,Pune,Laptop,10000,5,pieces,50000,INR
+SO1019,18-02-2023,Rohan Patel,Mumbai,Keyboard,2000,5,pieces,10000,INR
+SO1020,24-03-2023,Amit Joshi,Pune,External Hard Drive,5000,5,pieces,25000,INR
+SO1021,16-03-2023,Amit Joshi,Mumbai,Webcam,10000,7,pieces,70000,INR
+SO1022,30-04-2023,Amit Joshi,Pune,Laptop,70000,5,pieces,350000,INR
+SO1023,13-04-2023,Nikhil Desai,Mumbai,Wireless Mouse,3000,3,pieces,9000,INR
+SO1024,08-07-2023,Pooja Mehta,Ahmedabad,Wireless Mouse,5000,2,pieces,10000,INR
+SO1025,25-07-2023,Rohan Patel,Chennai,External Hard Drive,5000,7,pieces,35000,INR
+SO1026,14-07-2023,Divya Reddy,Ahmedabad,Keyboard,1500,8,pieces,12000,INR
+SO1027,24-07-2023,Rohan Patel,Hyderabad,Laptop,3000,9,pieces,27000,INR
+SO1028,25-07-2023,Rohan Patel,Chennai,Monitor,5000,8,pieces,40000,INR
+SO1029,17-09-2023,Divya Reddy,Chennai,Wireless Mouse,1500,8,pieces,12000,INR
+SO1030,08-09-2023,Nikhil Desai,Chennai,Webcam,8000,9,pieces,72000,INR

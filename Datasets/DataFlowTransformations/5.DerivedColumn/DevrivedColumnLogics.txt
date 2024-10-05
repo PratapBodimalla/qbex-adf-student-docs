@@ -1,0 +1,32 @@
+-- String Functions
+lower - customer
+upper country
+split - product / replace
+
+
+-- Array Functions
+in
+map - month name
+
+-- Lookup Functions
+product - category
+customer-bucket
+
+-- expr
+price * Qty
+
+-- Date/Time Functions
+toDate
+NumberOfDays OrderDate / ShipDAte
+NumberOfDays OrderDate / CurrentDate
+Year
+Month
+Day
+Week
+MTD
+YTD
+
+-- numeric
+weighted average
+
+-- Metadata

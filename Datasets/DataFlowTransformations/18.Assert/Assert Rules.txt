@@ -1,0 +1,9 @@
+Assert Rules:
+
+1. OrderDate - Valid Date
+2. Customer Exits
+3. Product Exists
+4. Price > 0
+5. Qty_Sold should be whole number
+6. Amount cnnot be less than Price
+7. Amount_currency in Valid Currency Codes

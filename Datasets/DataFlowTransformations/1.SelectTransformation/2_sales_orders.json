@@ -1,0 +1,102 @@
+[
+    {
+        "SalesOrder": "SO101",
+        "OrderDate": "2024-09-8",
+        "Product": "Keyboard",
+        "sold_to_party": {
+            "CustomerName": "Amit Joshi",
+            "address": {
+                "City": "Hyderabad",
+                "Country": "India"
+            }
+        },
+        "sales_amount": {
+            "Amount": 12000,
+            "Currency": "INR"
+        },
+        "sales_quantities": {
+            "Qty_Sold": 4,
+            "Qty_Sold_Units": "pieces"
+        }
+    },
+    {
+        "SalesOrder": "SO102",
+        "OrderDate": "2024-09-19",
+        "Product": "Printer",
+        "sold_to_party": {
+            "CustomerName": "Divya Reddy",
+            "address": {
+                "City": "Mumbai",
+                "Country": "India"
+            }
+        },
+        "sales_amount": {
+            "Amount": 7500,
+            "Currency": "INR"
+        },
+        "sales_quantities": {
+            "Qty_Sold": 5,
+            "Qty_Sold_Units": "pieces"
+        }
+    },
+    {
+        "SalesOrder": "SO103",
+        "OrderDate": "2024-09-1",
+        "Product": "Laptop",
+        "sold_to_party": {
+            "CustomerName": "Rohan Patel",
+            "address": {
+                "City": "Pune",
+                "Country": "India"
+            }
+        },
+        "sales_amount": {
+            "Amount": 15000,
+            "Currency": "INR"
+        },
+        "sales_quantities": {
+            "Qty_Sold": 10,
+            "Qty_Sold_Units": "pieces"
+        }
+    },
+    {
+        "SalesOrder": "SO104",
+        "OrderDate": "2024-09-30",
+        "Product": "External Hard Drive",
+        "sold_to_party": {
+            "CustomerName": "Divya Reddy",
+            "address": {
+                "City": "Pune",
+                "Country": "India"
+            }
+        },
+        "sales_amount": {
+            "Amount": 80000,
+            "Currency": "INR"
+        },
+        "sales_quantities": {
+            "Qty_Sold": 8,
+            "Qty_Sold_Units": "pieces"
+        }
+    },
+    {
+        "SalesOrder": "SO105",
+        "OrderDate": "2024-09-14",
+        "Product": "Wireless Mouse",
+        "sold_to_party": {
+            "CustomerName": "Nikhil Desai",
+            "address": {
+                "City": "Ahmedabad",
+                "Country": "India"
+            }
+        },
+        "sales_amount": {
+            "Amount": 80000,
+            "Currency": "INR"
+        },
+        "sales_quantities": {
+            "Qty_Sold": 10,
+            "Qty_Sold_Units": "pieces"
+        }
+    }
+]

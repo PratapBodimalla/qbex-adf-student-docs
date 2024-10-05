@@ -1,0 +1,37 @@
+[
+    {
+        "Product": "Keyboard",
+        "ProductCategory": "Peripherals",
+        "ProductSubCategory": "Input Device"
+    },
+    {
+        "Product": "Printer",
+        "ProductCategory": "Peripherals",
+        "ProductSubCategory": "Output Device"
+    },
+    {
+        "Product": "Laptop",
+        "ProductCategory": "Computing Device",
+        "ProductSubCategory": "Portable Computer"
+    },
+    {
+        "Product": "External Hard Drive",
+        "ProductCategory": "Storage",
+        "ProductSubCategory": "External Storage"
+    },
+    {
+        "Product": "Wireless Mouse",
+        "ProductCategory": "Peripherals",
+        "ProductSubCategory": "Input Device"
+    },
+    {
+        "Product": "Monitor",
+        "ProductCategory": "Peripherals",
+        "ProductSubCategory": "Output Device"
+    },
+    {
+        "Product": "Webcam",
+        "ProductCategory": "Peripherals",
+        "ProductSubCategory": "Video Device"
+    }
+]

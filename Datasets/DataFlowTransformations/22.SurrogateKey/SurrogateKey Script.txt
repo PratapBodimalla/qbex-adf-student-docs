@@ -1,0 +1,11 @@
+CREATE TABLE Student_sid (
+    StudentID INT PRIMARY KEY,
+    StudentName VARCHAR(100),
+    City VARCHAR(100),
+    Country VARCHAR(100),
+    Age INT,
+    Email VARCHAR(255)
+);
+
+select 'max_id' student_id,COALESCE(max(StudentID),0) max_id
+from dbo.Student_sid

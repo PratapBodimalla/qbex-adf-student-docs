@@ -1,0 +1,2 @@
+id,csv_field,json_field,xml_field
+1,chrome|steel|plastic,"{""ts"":1409318650332,""userId"":""309"",""sessionId"":1879,""page"":""NextSong"",""auth"":""Logged In"",""method"":""PUT"",""status"":200,""level"":""free"",""itemInSession"":2,""registration"":1384448}",<Customers><Customer>122</Customer><CompanyName>Great Lakes Food Market</CompanyName></Customers>

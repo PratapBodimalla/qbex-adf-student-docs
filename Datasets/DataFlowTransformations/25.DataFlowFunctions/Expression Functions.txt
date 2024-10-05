@@ -1,0 +1,42 @@
+/* Expression Functions */
+/* 1. case */
+/* case({student id}==1,'yes',{student id}==2,'no','NA') */
+
+/* 2. columnNames */
+/* columnNames('source1') */
+
+/* 3. escape */
+/* escape('{"key":"test"','json') */
+
+/* 4 expr -> Dynamic Expressions  */
+/* expr($parameter1) */
+
+/* 5. hasColumn */
+/* hasColumn('student_name', 'source1') */
+
+/* 6. iif */
+/* iif({student id}==1,'Yes','No') */
+
+/* 7. iifNull same like coaleace*/
+/* iifNull(null(),10) */
+
+/* 8. md5 */
+/* md5(school,class,{student id},student_name) */
+
+/* 9. regex_match */
+/* regexMatch(student_name, `^A.*`) */
+/* regexMatch(student_name, `^[A-D].*`) */
+
+/* 10. reges_split */
+/* regexSplit('pratapQqbexBbodimalla', `[QB]`) */
+
+/* 11. regexExtract */
+/* regexExtract('Cost is between 600 and 800 dollars', '(\\d+) and (\\d+)', 1) */
+/* regexExtract('Cost is between 600 and 800 dollars', '(\\d+) and (\\d+)', 2) */
+
+/* 12. regex_replace */
+/* regexReplace('100 and 200', '(\\d+)', 'pratap') */
+
+/* 13. uuid */
+/* uuid() */
+

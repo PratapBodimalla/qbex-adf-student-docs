@@ -1,0 +1,37 @@
+[
+    {
+        "CustomerName": "Amit Joshi",
+        "CustomerBucket": "Bucket-1",
+        "CustomerRegion": "South",
+        "LessThanFullTruckLoad": "Yes",
+        "YearOnYearVolumeIncrease": "No"
+    },
+    {
+        "CustomerName": "Divya Reddy",
+        "CustomerBucket": "Bucket-2",
+        "CustomerRegion": "North",
+        "LessThanFullTruckLoad": "No",
+        "YearOnYearVolumeIncrease": "Yes"
+    },
+    {
+        "CustomerName": "Rohan Patel",
+        "CustomerBucket": "Bucket-1",
+        "CustomerRegion": "South",
+        "LessThanFullTruckLoad": "Yes",
+        "YearOnYearVolumeIncrease": "Yes"
+    },
+    {
+        "CustomerName": "Nikhil Desai",
+        "CustomerBucket": "Bucket-2",
+        "CustomerRegion": "North",
+        "LessThanFullTruckLoad": "No",
+        "YearOnYearVolumeIncrease": "No"
+    },
+    {
+        "CustomerName": "Pooja Mehta",
+        "CustomerBucket": "Bucket-1",
+        "CustomerRegion": "South",
+        "LessThanFullTruckLoad": "Yes",
+        "YearOnYearVolumeIncrease": "Yes"
+    }
+]

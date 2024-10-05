@@ -1,0 +1,31 @@
+/* Metadata functions */
+
+/* 1. byName */
+/* toString(byName('student_name')) */
+
+/* 2. byNames */
+/* toString(byNames(['student_name','school'])) */
+/* toString(byNames(['school','student_name'])) */
+
+/* 3. byOrigin */
+/* toString(byOrigin('student_name','source1')) */
+
+/* 4. byOrigins */
+/* toString(byOrigins(['student_name','school'],'source1')) */
+/* toString(byOrigins(['school','student_name'],'source1')) */
+
+/* 5. by position */
+/* toString(byPosition(1)) */
+/* toString(byPosition(4)) */
+
+
+/* 6. originColumns */
+/* array(toString(originColumns('source1'))) */
+
+/* next json relevent */
+
+/* 7. hasPath */
+/* hasPath('Marks.main_subjects.math_marks') */
+
+/* 8. byPath */
+/* toString(byPath('Marks.main_subjects.math_marks')) */

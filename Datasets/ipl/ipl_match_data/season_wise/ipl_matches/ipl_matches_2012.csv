@@ -1,0 +1,75 @@
+id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs,super_over,method,umpire1,umpire2
+548306,2012,Chennai,2012-04-04,League,RE Levi,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,113.0,20.0,N,,JD Cloete,SJA Taufel
+548307,2012,Kolkata,2012-04-05,League,IK Pathan,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,98.0,12.0,N,,S Asnani,HDPK Dharmasena
+548308,2012,Mumbai,2012-04-06,League,SPD Smith,Wankhede Stadium,Mumbai Indians,Pune Warriors,Mumbai Indians,field,Pune Warriors,runs,28.0,130.0,20.0,N,,AK Chaudhary,SJA Taufel
+548309,2012,Jaipur,2012-04-06,League,AM Rahane,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31.0,192.0,20.0,N,,BF Bowden,SK Tarapore
+548310,2012,Bangalore,2012-04-07,League,AB de Villiers,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,20.0,158.0,20.0,N,,S Asnani,S Ravi
+548311,2012,Visakhapatnam,2012-04-07,League,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,Chennai Super Kings,Deccan Chargers,field,Chennai Super Kings,runs,74.0,194.0,20.0,N,,JD Cloete,HDPK Dharmasena
+548312,2012,Jaipur,2012-04-08,League,BJ Hodge,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22.0,165.0,20.0,N,,BF Bowden,VA Kulkarni
+548313,2012,Pune,2012-04-08,League,MN Samuels,Subrata Roy Sahara Stadium,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Pune Warriors,runs,22.0,167.0,20.0,N,,S Das,SJA Taufel
+548314,2012,Visakhapatnam,2012-04-09,League,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Mumbai Indians,wickets,5.0,139.0,20.0,N,,AK Chaudhary,JD Cloete
+548315,2012,Bangalore,2012-04-10,League,L Balaji,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42.0,166.0,20.0,N,,S Ravi,RJ Tucker
+548316,2012,Delhi,2012-04-10,League,M Morkel,Feroz Shah Kotla,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Delhi Daredevils,wickets,8.0,111.0,20.0,N,,Asad Rauf,SK Tarapore
+548317,2012,Mumbai,2012-04-11,League,KA Pollard,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27.0,198.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548318,2012,Chennai,2012-04-12,League,F du Plessis,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5.0,206.0,20.0,N,,HDPK Dharmasena,RJ Tucker
+548319,2012,Chandigarh,2012-04-12,League,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7.0,116.0,20.0,N,,VA Kulkarni,SK Tarapore
+548320,2012,Kolkata,2012-04-13,League,Shakib Al Hasan,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5.0,132.0,20.0,N,,Asad Rauf,S Asnani
+548322,2012,Pune,2012-04-14,League,JD Ryder,Subrata Roy Sahara Stadium,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Pune Warriors,wickets,7.0,156.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548323,2012,Kolkata,2012-04-15,League,SP Narine,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,2.0,135.0,20.0,N,,Asad Rauf,S Asnani
+548324,2012,Bangalore,2012-04-15,League,AM Rahane,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59.0,196.0,20.0,N,,JD Cloete,RJ Tucker
+548325,2012,Mumbai,2012-04-16,League,S Nadeem,Wankhede Stadium,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,93.0,20.0,N,,BF Bowden,SK Tarapore
+548326,2012,Jaipur,2012-04-17,League,BJ Hodge,Sawai Mansingh Stadium,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,5.0,197.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548327,2012,Bangalore,2012-04-17,League,CH Gayle,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,bat,Royal Challengers Bangalore,wickets,6.0,183.0,20.0,N,,S Asnani,S Das
+548328,2012,Chandigarh,2012-04-18,League,G Gambhir,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,8.0,125.0,20.0,N,,JD Cloete,RJ Tucker
+548321,2012,Delhi,2012-04-19,League,KP Pietersen,Feroz Shah Kotla,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Delhi Daredevils,wickets,5.0,158.0,20.0,N,,BF Bowden,SK Tarapore
+548330,2012,Chennai,2012-04-19,League,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,13.0,165.0,20.0,N,,Asad Rauf,S Das
+548331,2012,Chandigarh,2012-04-20,League,CH Gayle,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,164.0,20.0,N,,S Ravi,RJ Tucker
+548332,2012,Chennai,2012-04-21,League,F du Plessis,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,147.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548333,2012,Delhi,2012-04-21,League,SC Ganguly,Feroz Shah Kotla,Delhi Daredevils,Pune Warriors,Delhi Daredevils,field,Pune Warriors,runs,20.0,193.0,20.0,N,,Asad Rauf,S Das
+548334,2012,Mumbai,2012-04-22,League,SE Marsh,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,6.0,164.0,20.0,N,,S Ravi,RJ Tucker
+548335,2012,Cuttack,2012-04-22,League,B Lee,Barabati Stadium,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,127.0,20.0,N,,BF Bowden,SK Tarapore
+548336,2012,Jaipur,2012-04-23,League,AB de Villiers,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,46.0,190.0,20.0,N,,Asad Rauf,S Asnani
+548337,2012,Pune,2012-04-24,League,V Sehwag,Subrata Roy Sahara Stadium,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Delhi Daredevils,wickets,8.0,147.0,20.0,N,,S Ravi,RJ Tucker
+548339,2012,Chandigarh,2012-04-25,League,AT Rayudu,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,4.0,169.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548341,2012,Pune,2012-04-26,League,CL White,Subrata Roy Sahara Stadium,Pune Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,18.0,178.0,20.0,N,,S Ravi,RJ Tucker
+548342,2012,Delhi,2012-04-27,League,V Sehwag,Feroz Shah Kotla,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37.0,208.0,20.0,N,,Aleem Dar,BNJ Oxenford
+548343,2012,Chennai,2012-04-28,League,Mandeep Singh,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,7.0,157.0,20.0,N,,BF Bowden,SK Tarapore
+548344,2012,Kolkata,2012-04-28,League,G Gambhir,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47.0,191.0,20.0,N,,Asad Rauf,BR Doctrove
+548345,2012,Delhi,2012-04-29,League,V Sehwag,Feroz Shah Kotla,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,1.0,153.0,20.0,N,,S Ravi,RJ Tucker
+548346,2012,Mumbai,2012-04-29,League,DW Steyn,Wankhede Stadium,Mumbai Indians,Deccan Chargers,Mumbai Indians,field,Mumbai Indians,wickets,5.0,101.0,20.0,N,,AK Chaudhary,BNJ Oxenford
+548347,2012,Chennai,2012-04-30,League,G Gambhir,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,140.0,20.0,N,,BF Bowden,C Shamshuddin
+548348,2012,Cuttack,2012-05-01,League,KC Sangakkara,Barabati Stadium,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Deccan Chargers,runs,13.0,187.0,20.0,N,,Aleem Dar,AK Chaudhary
+548349,2012,Jaipur,2012-05-01,League,P Negi,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,wickets,6.0,142.0,20.0,N,,JD Cloete,SJA Taufel
+548350,2012,Bangalore,2012-05-02,League,Azhar Mahmood,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4.0,159.0,20.0,N,,BF Bowden,C Shamshuddin
+548351,2012,Pune,2012-05-03,League,SL Malinga,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,1.0,121.0,20.0,N,,Asad Rauf,S Asnani
+548352,2012,Chennai,2012-05-04,League,SK Raina,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,10.0,161.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford
+548353,2012,Kolkata,2012-05-05,League,SP Narine,Eden Gardens,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,7.0,151.0,20.0,N,,BF Bowden,SK Tarapore
+548354,2012,Chandigarh,2012-05-05,League,SR Watson,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43.0,178.0,20.0,N,,JD Cloete,SJA Taufel
+548355,2012,Mumbai,2012-05-06,League,DR Smith,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,2.0,174.0,20.0,N,,Asad Rauf,S Asnani
+548356,2012,Bangalore,2012-05-06,League,AB de Villiers,M Chinnaswamy Stadium,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,182.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford
+548357,2012,Delhi,2012-05-07,League,JH Kallis,Feroz Shah Kotla,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,6.0,154.0,20.0,N,,JD Cloete,S Ravi
+548358,2012,Pune,2012-05-08,League,SR Watson,Subrata Roy Sahara Stadium,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,wickets,7.0,126.0,20.0,N,,Asad Rauf,BR Doctrove
+548359,2012,Hyderabad,2012-05-08,League,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,25.0,171.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford
+548360,2012,Mumbai,2012-05-09,League,CH Gayle,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,142.0,20.0,N,,BF Bowden,VA Kulkarni
+548329,2012,Hyderabad,2012-05-10,League,DA Warner,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9.0,188.0,20.0,N,,JD Cloete,SJA Taufel
+548361,2012,Jaipur,2012-05-10,League,BW Hilfenhaus,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,127.0,20.0,N,,BNJ Oxenford,C Shamshuddin
+548362,2012,Pune,2012-05-11,League,CH Gayle,Subrata Roy Sahara Stadium,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,runs,35.0,174.0,20.0,N,,BF Bowden,SK Tarapore
+548363,2012,Kolkata,2012-05-12,League,RG Sharma,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27.0,183.0,20.0,N,,S Ravi,SJA Taufel
+548364,2012,Chennai,2012-05-12,League,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,field,Chennai Super Kings,wickets,9.0,115.0,20.0,N,,S Das,BR Doctrove
+548365,2012,Jaipur,2012-05-13,League,A Chandila,Sawai Mansingh Stadium,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,171.0,20.0,N,,BF Bowden,SK Tarapore
+548366,2012,Chandigarh,2012-05-13,League,DJ Hussey,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,wickets,4.0,191.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford
+548367,2012,Bangalore,2012-05-14,League,AT Rayudu,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,172.0,20.0,N,,S Das,BR Doctrove
+548368,2012,Kolkata,2012-05-14,League,MEK Hussey,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,159.0,20.0,N,,JD Cloete,SJA Taufel
+548369,2012,Delhi,2012-05-15,League,UT Yadav,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,bat,Delhi Daredevils,wickets,5.0,137.0,20.0,N,,HDPK Dharmasena,BNJ Oxenford
+548370,2012,Mumbai,2012-05-16,League,SP Narine,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32.0,141.0,20.0,N,,S Das,BR Doctrove
+548371,2012,Dharamsala,2012-05-17,League,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,121.0,20.0,N,,VA Kulkarni,SK Tarapore
+548372,2012,Delhi,2012-05-17,League,CH Gayle,Feroz Shah Kotla,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,21.0,216.0,20.0,N,,HDPK Dharmasena,C Shamshuddin
+548373,2012,Hyderabad,2012-05-18,League,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,wickets,5.0,127.0,20.0,N,,S Ravi,SJA Taufel
+548374,2012,Dharamsala,2012-05-19,League,UT Yadav,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,142.0,20.0,N,,BF Bowden,VA Kulkarni
+548375,2012,Pune,2012-05-19,League,Shakib Al Hasan,Subrata Roy Sahara Stadium,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34.0,137.0,20.0,N,,S Asnani,BR Doctrove
+548376,2012,Hyderabad,2012-05-20,League,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,9.0,133.0,20.0,N,,S Ravi,SJA Taufel
+548377,2012,Jaipur,2012-05-20,League,DR Smith,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,10.0,163.0,20.0,N,,HDPK Dharmasena,C Shamshuddin
+548378,2012,Pune,2012-05-22,Qualifier 1,YK Pathan,Subrata Roy Sahara Stadium,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,163.0,20.0,N,,BR Doctrove,SJA Taufel
+548379,2012,Bangalore,2012-05-23,Elimination Final,MS Dhoni,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38.0,188.0,20.0,N,,BF Bowden,HDPK Dharmasena
+548380,2012,Chennai,2012-05-25,Qualifier 2,M Vijay,"MA Chidambaram Stadium, Chepauk",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Chennai Super Kings,runs,86.0,223.0,20.0,N,,BR Doctrove,SJA Taufel
+548381,2012,Chennai,2012-05-27,Final,MS Bisla,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,191.0,20.0,N,,BF Bowden,SJA Taufel

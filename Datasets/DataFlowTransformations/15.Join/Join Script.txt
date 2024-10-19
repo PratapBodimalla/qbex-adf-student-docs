@@ -3,3 +3,7 @@ joins
 self join
 
 broadcast - optimize
+
+fuzzy - broadcast off
+
+Non-equi joins require at least one of the two streams to be broadcasted using Fixed broadcasting in the Optimize tab.

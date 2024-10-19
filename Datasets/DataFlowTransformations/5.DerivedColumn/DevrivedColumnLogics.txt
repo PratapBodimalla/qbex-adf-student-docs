@@ -5,7 +5,7 @@ split - product / replace
 
 
 -- Array Functions
-in
+in  ['Hyd','bng']
 map - month name
 
 -- Lookup Functions
@@ -13,7 +13,7 @@ product - category
 customer-bucket
 
 -- expr
-price * Qty
+'price * Qty'
 
 -- Date/Time Functions
 toDate

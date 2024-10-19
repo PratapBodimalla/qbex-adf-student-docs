@@ -1,0 +1,58 @@
+id,season,city,date,match_type,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs,super_over,method,umpire1,umpire2
+392181,2009,Cape Town,2009-04-18,League,SR Tendulkar,Newlands,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19.0,166.0,20.0,N,,BR Doctrove,K Hariharan
+392182,2009,Cape Town,2009-04-18,League,R Dravid,Newlands,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75.0,134.0,20.0,N,,BR Doctrove,RB Tiffin
+392183,2009,Cape Town,2009-04-19,League,DL Vettori,Newlands,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,10.0,54.0,6.0,N,D/L,MR Benson,SD Ranade
+392184,2009,Cape Town,2009-04-19,League,RP Singh,Newlands,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Deccan Chargers,wickets,8.0,102.0,20.0,N,,MR Benson,BR Doctrove
+392185,2009,Port Elizabeth,2009-04-20,League,M Muralitharan,St George's Park,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92.0,180.0,20.0,N,,BG Jerling,SJA Taufel
+392186,2009,Durban,2009-04-21,League,CH Gayle,Kingsmead,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,11.0,69.0,9.2,N,D/L,DJ Harper,SD Ranade
+392188,2009,Cape Town,2009-04-22,League,AC Gilchrist,Newlands,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24.0,185.0,20.0,N,,M Erasmus,AM Saheba
+392189,2009,Durban,2009-04-23,League,AB de Villiers,Kingsmead,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,9.0,190.0,20.0,N,,BR Doctrove,SJA Taufel
+392190,2009,Cape Town,2009-04-23,League,YK Pathan,Newlands,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,,151.0,20.0,Y,,MR Benson,M Erasmus
+392191,2009,Durban,2009-04-24,League,RS Bopara,Kingsmead,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,7.0,169.0,20.0,N,,BR Doctrove,TH Wijewardene
+392192,2009,Durban,2009-04-25,League,PP Ojha,Kingsmead,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12.0,169.0,20.0,N,,HDPK Dharmasena,SJA Taufel
+392194,2009,Port Elizabeth,2009-04-26,League,TM Dilshan,St George's Park,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,wickets,6.0,150.0,20.0,N,,S Asnani,BG Jerling
+392195,2009,Cape Town,2009-04-26,League,KC Sangakkara,Newlands,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27.0,140.0,20.0,N,,M Erasmus,K Hariharan
+392196,2009,Durban,2009-04-27,League,HH Gibbs,Kingsmead,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6.0,166.0,20.0,N,,IL Howell,TH Wijewardene
+392197,2009,Port Elizabeth,2009-04-27,League,SR Tendulkar,St George's Park,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92.0,188.0,20.0,N,,BG Jerling,RB Tiffin
+392198,2009,Centurion,2009-04-28,League,YK Pathan,SuperSport Park,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,wickets,5.0,144.0,20.0,N,,GAV Baxter,RE Koertzen
+392199,2009,Durban,2009-04-29,League,MV Boucher,Kingsmead,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,5.0,140.0,20.0,N,,MR Benson,TH Wijewardene
+392200,2009,Durban,2009-04-29,League,KC Sangakkara,Kingsmead,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,runs,3.0,120.0,20.0,N,,MR Benson,SL Shastri
+392201,2009,Centurion,2009-04-30,League,DP Nannes,SuperSport Park,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6.0,149.0,20.0,N,,GAV Baxter,AM Saheba
+392202,2009,Centurion,2009-04-30,League,SK Raina,SuperSport Park,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38.0,165.0,20.0,N,,GAV Baxter,RE Koertzen
+392203,2009,East London,2009-05-01,League,JP Duminy,Buffalo Park,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,149.0,20.0,N,,M Erasmus,SK Tarapore
+392204,2009,Durban,2009-05-01,League,Yuvraj Singh,Kingsmead,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8.0,146.0,20.0,N,,HDPK Dharmasena,S Ravi
+392205,2009,Port Elizabeth,2009-05-02,League,YK Pathan,St George's Park,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,3.0,142.0,20.0,N,,S Asnani,BG Jerling
+392206,2009,Johannesburg,2009-05-02,League,SB Jakati,New Wanderers Stadium,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,18.0,164.0,20.0,N,,DJ Harper,RE Koertzen
+392207,2009,Port Elizabeth,2009-05-03,League,DPMD Jayawardene,St George's Park,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,6.0,154.0,20.0,N,,S Asnani,MR Benson
+392208,2009,Johannesburg,2009-05-03,League,JH Kallis,New Wanderers Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,9.0,150.0,20.0,N,,RE Koertzen,TH Wijewardene
+392209,2009,East London,2009-05-04,League,MS Dhoni,Buffalo Park,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,78.0,179.0,20.0,N,,BR Doctrove,M Erasmus
+392210,2009,Durban,2009-05-05,League,GC Smith,Kingsmead,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78.0,212.0,20.0,N,,SS Hazare,IL Howell
+392211,2009,Durban,2009-05-05,League,G Gambhir,Kingsmead,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,9.0,155.0,20.0,N,,GAV Baxter,IL Howell
+392212,2009,Centurion,2009-05-06,League,RG Sharma,SuperSport Park,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,19.0,146.0,20.0,N,,MR Benson,HDPK Dharmasena
+392213,2009,Centurion,2009-05-07,League,A Singh,SuperSport Park,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,106.0,20.0,N,,K Hariharan,DJ Harper
+392214,2009,Centurion,2009-05-07,League,ML Hayden,SuperSport Park,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,12.0,187.0,18.0,N,D/L,DJ Harper,TH Wijewardene
+392215,2009,East London,2009-05-08,League,A Nehra,Buffalo Park,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,7.0,117.0,20.0,N,,M Erasmus,SK Tarapore
+392216,2009,Kimberley,2009-05-09,League,DPMD Jayawardene,De Beers Diamond Oval,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,3.0,169.0,20.0,N,,GAV Baxter,AM Saheba
+392217,2009,Kimberley,2009-05-09,League,S Badrinath,De Beers Diamond Oval,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,141.0,20.0,N,,GAV Baxter,HDPK Dharmasena
+392218,2009,Port Elizabeth,2009-05-10,League,JP Duminy,St George's Park,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16.0,158.0,20.0,N,,BR Doctrove,BG Jerling
+392219,2009,Johannesburg,2009-05-10,League,A Mishra,New Wanderers Stadium,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Delhi Daredevils,wickets,7.0,124.0,20.0,N,,SL Shastri,RB Tiffin
+392220,2009,Kimberley,2009-05-11,League,DR Smith,De Beers Diamond Oval,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53.0,167.0,20.0,N,,GAV Baxter,HDPK Dharmasena
+392221,2009,Centurion,2009-05-12,League,LRPL Taylor,SuperSport Park,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,174.0,20.0,N,,M Erasmus,SS Hazare
+392222,2009,Centurion,2009-05-12,League,Harbhajan Singh,SuperSport Park,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,8.0,120.0,20.0,N,,SS Hazare,RE Koertzen
+392223,2009,Durban,2009-05-13,League,R Bhatia,Kingsmead,Deccan Chargers,Delhi Daredevils,Deccan Chargers,field,Delhi Daredevils,runs,12.0,174.0,20.0,N,,DJ Harper,SL Shastri
+392224,2009,Durban,2009-05-14,League,LRPL Taylor,Kingsmead,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,2.0,130.0,20.0,N,,BR Doctrove,DJ Harper
+392225,2009,Durban,2009-05-14,League,SK Warne,Kingsmead,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,146.0,20.0,N,,BR Doctrove,DJ Harper
+392226,2009,Bloemfontein,2009-05-15,League,B Lee,OUTsurance Oval,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,121.0,20.0,N,,HDPK Dharmasena,IL Howell
+392227,2009,Port Elizabeth,2009-05-16,League,ML Hayden,St George's Park,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7.0,148.0,20.0,N,,SK Tarapore,SJA Taufel
+392228,2009,Johannesburg,2009-05-16,League,RG Sharma,New Wanderers Stadium,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Deccan Chargers,wickets,6.0,161.0,20.0,N,,RE Koertzen,S Ravi
+392229,2009,Johannesburg,2009-05-17,League,Yuvraj Singh,New Wanderers Stadium,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1.0,135.0,20.0,N,,S Ravi,RB Tiffin
+392230,2009,Bloemfontein,2009-05-17,League,AB de Villiers,OUTsurance Oval,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,14.0,151.0,20.0,N,,SS Hazare,IL Howell
+392231,2009,Centurion,2009-05-18,League,BJ Hodge,SuperSport Park,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,7.0,189.0,20.0,N,,SJA Taufel,RB Tiffin
+392232,2009,Johannesburg,2009-05-19,League,JH Kallis,New Wanderers Stadium,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,bat,Royal Challengers Bangalore,wickets,7.0,135.0,20.0,N,,IL Howell,RB Tiffin
+392233,2009,Durban,2009-05-20,League,LR Shukla,Kingsmead,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,102.0,20.0,N,,BG Jerling,SJA Taufel
+392234,2009,Durban,2009-05-20,League,M Muralitharan,Kingsmead,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,117.0,20.0,N,,BG Jerling,SJA Taufel
+392235,2009,Centurion,2009-05-21,League,V Sehwag,SuperSport Park,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,4.0,166.0,20.0,N,,IL Howell,S Ravi
+392236,2009,Centurion,2009-05-21,League,MK Pandey,SuperSport Park,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12.0,171.0,20.0,N,,IL Howell,S Ravi
+392237,2009,Centurion,2009-05-22,Semi Final,AC Gilchrist,SuperSport Park,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6.0,154.0,20.0,N,,BR Doctrove,DJ Harper
+392238,2009,Johannesburg,2009-05-23,Semi Final,MK Pandey,New Wanderers Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,147.0,20.0,N,,RE Koertzen,SJA Taufel
+392239,2009,Johannesburg,2009-05-24,Final,A Kumble,New Wanderers Stadium,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Deccan Chargers,runs,6.0,144.0,20.0,N,,RE Koertzen,SJA Taufel

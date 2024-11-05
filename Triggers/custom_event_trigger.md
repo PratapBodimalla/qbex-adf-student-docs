@@ -31,3 +31,12 @@ aeg-sas-key : <Access key>
 ## use the Topic end point
 
 https://<>.eventgrid.azure.net/api/events
+
+## System Parameters:
+
+```scala
+@triggerBody().event.eventType
+@triggerBody().event.subject
+@triggerBody().event.data.fname
+@trigger().startTime
+```

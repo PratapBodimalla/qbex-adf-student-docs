@@ -125,7 +125,7 @@ BEGIN
         -- Build the dynamic SQL for the UPDATE statement
         SET @Sql = N'UPDATE water_mark_d1
                      SET delta_value = CONVERT(VARCHAR, (SELECT MAX(' + @IDColumn + N') FROM ' + @TableName + N'), 120),
-					     previous_delta_value = delta_value
+					     previous_delta_value = case when delta_value_type <> ''INTEGER'' AND delta_value = ''0'' then previous_delta_value else delta_value end
                      WHERE table_name = ''' + @TableName + N'''';
 
         -- Execute the dynamic SQL
